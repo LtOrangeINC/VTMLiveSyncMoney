@@ -21,7 +21,6 @@ my_pid = None
 pids = psutil.pids()
 for pid in pids:
     ps = psutil.Process(pid)
-    # find process by .exe name, but note that there might be more instances of eurotrucks2.exe
     if "eurotrucks2.exe" in ps.name():
         my_pid = ps.pid
         print("Process pid:")
