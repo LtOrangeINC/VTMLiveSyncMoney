@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"money"</Description>
+      <LastState Value="91435" Activated="1" RealAddress="053CED50"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"eurotrucks2.exe"+01338C90</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

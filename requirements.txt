@@ -1,0 +1,6 @@
+ReadWriteMemory
+pywin32
+lxml
+psutil
+requests
+bs4
