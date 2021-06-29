@@ -6,3 +6,4 @@ Python 3.7.3 (64bit)
 
 The script only works if the game is ran on 32bit mode, the pointer has been found for that mode, it doesnt work on 64bit + ReadWriteMemory has problems reading and writing 64 bit address
 
+I also inclued a cheat table that has the money pointer
