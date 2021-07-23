@@ -34,7 +34,7 @@ base_addr = modules[0] # first item on the list
 def main():
     base_address = hex(base_addr)  #base address of the exe (find out with pymem)
     u = int(base_address, 0)
-    static_address_offset =  0x0001338C90
+    static_address_offset =  0x00014B7450
     pointer_static_address =  u + static_address_offset  #eurotrucks2.exe + .....
     offsets = [0x0C, 0x10] #list offsets
    
